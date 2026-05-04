@@ -1,4 +1,6 @@
 # Smoker Shell v4.0
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/3a487265-bd48-4537-ad59-79333eef38e8" />
+
 
 Advanced PHP web shell built for authorized penetration testing and red team engagements. Two versions: Linux and Windows, each tuned with OS-native commands and priv-esc vectors.
 
